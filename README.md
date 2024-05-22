@@ -32,6 +32,7 @@ invoice-generator-beta-pearl.vercel.app
 ### Screenshots
 
 
+![Screenshot 2024-05-22 155706](https://github.com/chirag640/invoice-Generator/assets/111826944/1d19b6d5-97da-4619-ba6f-44dfaea3ccd5)
 
 ### Installation
 
