@@ -11,9 +11,6 @@ This is a simple web application built with React.js and Bootstrap for generatin
 - Modal preview of the generated invoice before sending or downloading.
 - Ability to send the invoice via email or download it as a PDF.
 
-### Live Demo
-invoice-generator-beta-pearl.vercel.app
-
 ## Technologies Used
 
 - React.js
